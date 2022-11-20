@@ -84,6 +84,7 @@
 <a href="https://redux.js.org/">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
 </a>
+<a href="https://redux-saga.js.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/redux-saga.svg" alt="Redux Saga" width="50" height="50"/>
 </a>
 <a href="https://mobx.js.org/README.html">
